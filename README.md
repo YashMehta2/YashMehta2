@@ -23,7 +23,7 @@
 - Smooth UI animations and micro-interactions
 - Scalable frontend systems with a strong UX focus
 
-**Outside the lab:** swimming 🏊, traveling ✈️, movies & cinematography 🎬, and hunting down new frontend tools and design systems.
+**Outside the lab:** swimming 🏊, traveling ✈️, movies 🎬, and reading books 📚.
 
 ---
 
