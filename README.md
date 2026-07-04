@@ -1,24 +1,132 @@
-# 💫 About Me:
-🌱 I’m currently learning<br>Advanced frontend techniques with Next.js, TypeScript, and Framer Motion, along with data visualization using Tableau and the fundamentals of AWS Cloud Services to build scalable, performant, and data-driven web applications.<br><br>👨‍💻 All of my projects are available at<br>👉 https://personal-portfolio-yash-teal.vercel.app/<br><br>💬 Ask me about<br>Creating responsive and performant UIs with React, Next.js, and Tailwind CSS, building interactive dashboards using Chart.js and D3.js, optimizing user experience with GSAP and Framer Motion, integrating APIs efficiently, and delivering pixel-perfect designs across devices.<br><br>🛠️ What I enjoy building<br><br>End-to-end web applications with clean architecture<br><br>Interactive data dashboards and visual analytics<br><br>Smooth UI animations and micro-interactions<br><br>Scalable frontend systems with a strong focus on UX<br><br>🎯 Hobbies & Interests<br><br>Swimming to stay active and focused<br><br>Travelling and exploring new places and cultures<br><br>Watching movies, with an interest in storytelling, visuals, and cinematography<br><br>Exploring new frontend tools, libraries, and design systems<br><br>Experimenting with UI animations and motion design<br><br>📫 How to reach me<br>📧 myash299@gmail.com<br>
+<div align="center">
 
+# ⚡ YASH MEHTA — FULL-STACK TRAINER ⚡
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-mehta294) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:myash299@gmail.com) 
+![Trainer](https://img.shields.io/badge/Trainer-Yash%20Mehta-2E2E2E?style=for-the-badge&logo=pokemon&logoColor=FFCB05)
+![Level](https://img.shields.io/badge/Level-27-2E2E2E?style=for-the-badge)
+![Region](https://img.shields.io/badge/Region-Fremont%2C%20CA-2E2E2E?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Relocation-2E2E2E?style=for-the-badge)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=plastic&logo=haskell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=plastic&logo=greensock&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=plastic&logo=Puppeteer&logoSize=auto&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yashmehta2&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yashmehta2&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashmehta2&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+📧 myash299@gmail.com · [LinkedIn](https://www.linkedin.com/in/yash-mehta294/) · [GitHub](https://github.com/Yashmehta2) · [Portfolio](https://personal-portfolio-yash-teal.vercel.app/)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yashmehta2&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yashmehta2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧢 Trainer profile
+
+> Currently training in **Next.js, TypeScript & Framer Motion**, leveling up data-viz skills with **Tableau**, and grinding **AWS Cloud** fundamentals to build scalable, data-driven apps.
+
+**What I like to build**
+- End-to-end web apps with clean architecture
+- Interactive dashboards & visual analytics
+- Smooth UI animations and micro-interactions
+- Scalable frontend systems with a strong UX focus
+
+**Outside the lab:** swimming 🏊, traveling ✈️, movies & cinematography 🎬, and hunting down new frontend tools and design systems.
+
+---
+
+## 🔮 Type chart — skills by element
+
+<div align="center">
+
+**⚡ Electric — Frontend**
+<br>
+![React](https://img.shields.io/badge/react-FFCB05.svg?style=for-the-badge&logo=react&logoColor=2E2E2E) ![Next JS](https://img.shields.io/badge/Next.js-FFCB05?style=for-the-badge&logo=next.js&logoColor=2E2E2E) ![TypeScript](https://img.shields.io/badge/typescript-FFCB05.svg?style=for-the-badge&logo=typescript&logoColor=2E2E2E) ![JavaScript](https://img.shields.io/badge/javascript-FFCB05.svg?style=for-the-badge&logo=javascript&logoColor=2E2E2E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-FFCB05.svg?style=for-the-badge&logo=tailwind-css&logoColor=2E2E2E) ![GSAP](https://img.shields.io/badge/GSAP-FFCB05?style=for-the-badge&logo=greensock&logoColor=2E2E2E) ![Framer](https://img.shields.io/badge/Framer-FFCB05?style=for-the-badge&logo=framer&logoColor=2E2E2E) ![Ant Design](https://img.shields.io/badge/-AntDesign-FFCB05?style=for-the-badge&logo=ant-design&logoColor=2E2E2E) ![Bootstrap](https://img.shields.io/badge/bootstrap-FFCB05.svg?style=for-the-badge&logo=bootstrap&logoColor=2E2E2E) ![Figma](https://img.shields.io/badge/figma-FFCB05.svg?style=for-the-badge&logo=figma&logoColor=2E2E2E)
+
+**🌿 Grass — Mobile**
+<br>
+![React Native](https://img.shields.io/badge/react_native-78C850.svg?style=for-the-badge&logo=react&logoColor=2E2E2E) ![Flutter](https://img.shields.io/badge/Flutter-78C850.svg?style=for-the-badge&logo=Flutter&logoColor=2E2E2E) ![Swift](https://img.shields.io/badge/swift-78C850?style=for-the-badge&logo=swift&logoColor=2E2E2E) ![Kotlin](https://img.shields.io/badge/kotlin-78C850.svg?style=for-the-badge&logo=kotlin&logoColor=2E2E2E)
+
+**🌊 Water — Backend**
+<br>
+![Node.js](https://img.shields.io/badge/node.js-6890F0?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-6890F0?style=for-the-badge&logo=fastapi&logoColor=white) ![PHP](https://img.shields.io/badge/php-6890F0.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-6890F0.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-6890F0.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redux](https://img.shields.io/badge/redux-6890F0.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+**🔮 Psychic — AI / ML**
+<br>
+![Python](https://img.shields.io/badge/python-A040A0?style=for-the-badge&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI%20API-A040A0?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-A040A0?style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-A040A0.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-A040A0.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-A040A0.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**🐉 Dragon — Cloud & DevOps**
+<br>
+![AWS](https://img.shields.io/badge/AWS-7038F8?style=for-the-badge&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-7038F8?style=for-the-badge&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-7038F8.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-7038F8.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-7038F8.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-7038F8?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**⚪ Normal — Tools**
+<br>
+![Git](https://img.shields.io/badge/git-A8A878.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-A8A878.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-A8A878?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-A8A878.svg?style=for-the-badge&logo=jira&logoColor=white) ![Vite](https://img.shields.io/badge/vite-A8A878.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-A8A878.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+</div>
+
+---
+
+## 📜 Battle log — experience
+
+| Gym | Role | Key wins |
+|---|---|---|
+| **iConsult Collaborative**, Syracuse University | Software Engineer · Mar 2025 – May 2026 | Cut manual data handling 25% with Redux Toolkit + REST APIs · Lifted engagement 20% with GSAP/Framer Motion demos · Cut downtime 70% via a WordPress overhaul |
+| **Medlaunch Concepts, LLC** | Software Engineer Intern · Jan – May 2026 | Redeployed site in React with 100% cross-device consistency · Cut UI regressions 35% via GitHub Actions CI · Sped up data discovery 70% with a custom Graph Navigator |
+| **fAIshion Inc.** | Software Engineer Intern · Sept – Dec 2025 | Built a multi-step Next.js onboarding flow, lifting feature understanding 75% · Cut navigation errors 20% on the try-on dashboard |
+| **Playtoon It, Inc.** | Frontend Developer Intern (Lead) · May – Aug 2025 | Shipped the site in Next.js + Tailwind, boosting retention 30% · Mentored 2 juniors, raising PR approval rate 40% |
+
+---
+
+## 📇 Pokédex — projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**No. 001 — Agentic Scraper**
+<br>Self-improving autonomous scraper using Gemini API + LangChain for reasoning-based navigation — no manual selector maintenance.
+<br>[View →](https://bit.ly/4e35LrM)
+
+</td>
+<td width="50%" valign="top">
+
+**No. 002 — AI Grocery Price Aggregator**
+<br>Aggregates prices across Walmart, Target & Instacart via FastAPI; NLP summaries cut comparison time 90%.
+<br>[View →](https://bit.ly/4dNBoXu) · [Demo →](https://bit.ly/4vtdk1Q)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**No. 003 — PedeProtect**
+<br>Full-stack safety-reporting platform (React, FastAPI, MySQL) serving 200+ users with AI-assisted admin review.
+<br>[View →](https://bit.ly/4uVW4CO)
+
+</td>
+<td width="50%" valign="top">
+
+**No. 004 — Full portfolio**
+<br>All shipped work, live and versioned.
+<br>[View →](https://personal-portfolio-yash-teal.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Trainer stats
+
+![](https://github-readme-stats.vercel.app/api?username=Yashmehta2&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Yashmehta2&theme=dracula&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashmehta2&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 Gym badges
+
+![](https://github-profile-trophy.vercel.app/?username=Yashmehta2&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random dev quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=Yashmehta2&icon=6&color=7)](https://visitcount.itsvg.in)
+
+</div>
